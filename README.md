@@ -4,3 +4,4 @@
 * 利用stm32单片机与舵机的机械结构完成开锁。并通过ESP8266模块实现网络通信进行控制。代码中利用了部分stm32的开源库。还涉及一些网络部署。
 
 ### 门锁机械结构大致如下图所示
+!image(https://github.com/GrainRainLoss/Door-/blob/main/door_example.jpg)
