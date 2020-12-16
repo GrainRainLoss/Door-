@@ -8,8 +8,9 @@
 ### 门锁的界面演示大概如图
 ![image](https://github.com/GrainRainLoss/Door-/blob/main/door%E7%95%8C%E9%9D%A2.jpg)
 
-* 本门锁硬件部分代码运用了正点原子给出的官方库并对其进行修改
-
+* 本门锁硬件部分代码运用了正点原子给出的官方库并对其进行修改http://www.openedv.com/   也参考部分慧净智能车的部分代码 http://www.hlmcu.com/
+* 主要硬件代码为door_stm32.zip文件，为了方便部分查看，又将其分布上传，实际下载时只需要下载zip和后端文件夹、前端文件夹即可
+* 硬件部分编译推荐使用keil5
 ### 本门锁硬件主要设备为 
 * 舵机*1
 * 奇奇怪怪的开锁结构
