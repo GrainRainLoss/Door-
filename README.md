@@ -6,7 +6,7 @@
 ### 门锁机械结构大致如下图所示
 ![image](https://github.com/GrainRainLoss/Door-/blob/main/door_example.jpg)
 ### 门锁的界面演示大概如图
-![image]（https://github.com/GrainRainLoss/Door-/blob/main/door%E7%95%8C%E9%9D%A2.jpg）
+![image](https://github.com/GrainRainLoss/Door-/blob/main/door%E7%95%8C%E9%9D%A2.jpg)
 
 * 本门锁硬件部分代码运用了正点原子给出的官方库并对其进行修改
 
